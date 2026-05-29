@@ -5,7 +5,7 @@ I am passionate about building intelligent systems using data and AI.
 I enjoy solving real-world problems using Machine Learning, Deep Learning, and Data Analysis.
 
 - 🌱 I’m currently learning: Machine Learning, Deep Learning & Large Language Models (LLMs)
-- 📫 How to reach me at: talhamohd006@gmial.com
+- 📫 How to reach me at: talhamohd006@gmail.com
 - ⚡ Fun fact: I love turning raw data into real insights!
 
 ## 🌐 Socials:
